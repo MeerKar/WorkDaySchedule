@@ -33,6 +33,11 @@ When a text  or event is clicked it saves and in the local storage and it persis
 
 ## Mock Up
 
+<img width="1528" alt="image" src="https://github.com/MeerKar/WorkDaySchedule/assets/116701851/be0ff54b-1efd-4c76-b776-437b6614a1b3">
+
+
+
+
 
 
 
