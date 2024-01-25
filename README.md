@@ -35,7 +35,7 @@ Deployed Page :https://meerkar.github.io/WorkDaySchedule/
 
 ## Mock Up
 
-<img width="1528" alt="image" src="https://github.com/MeerKar/WorkDaySchedule/assets/116701851/be0ff54b-1efd-4c76-b776-437b6614a1b3">
+<img width="639" alt="image" src="https://github.com/MeerKar/WorkDaySchedule/assets/116701851/42af02df-aeb9-4c4f-9da1-cb836ff33e8b">
 
 
 
